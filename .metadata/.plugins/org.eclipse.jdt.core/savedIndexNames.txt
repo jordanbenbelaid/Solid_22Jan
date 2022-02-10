@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\WORK\DEMOS\22jansoft1_SOLID\.metadata\.plugins\org.eclipse.jdt.core
+2351594550.index
+392911141.index
+1777064453.index
+61719317.index
+397917218.index
